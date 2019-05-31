@@ -1,38 +1,5 @@
 {
   "streams": [
-    {
-      "title": "Node Js Stream",
-      "description": "All about Node Js",
-      "id": 1
-    },
-    {
-      "title": "javascript stream",
-      "description": "all about javascript",
-      "id": 2
-    },
-    {
-      "title": "A new stream",
-      "description": "a stream without ID",
-      "userId": null,
-      "id": 3
-    },
-    {
-      "title": "A new Stream with new Id",
-      "description": "With user Id itseems",
-      "userId": "111822855069617917838",
-      "id": 4
-    },
-    {
-      "title": "Python Stream",
-      "description": "A stream based on python",
-      "userId": "111822855069617917838",
-      "id": 5
-    },
-    {
-      "title": "C#",
-      "description": "A programming language",
-      "userId": "111822855069617917838",
-      "id": 6
-    }
+
   ]
 }

@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w db.json"
+    "start-local": "json-server -p 3001 -w db.json",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "praveen venigalla",
   "license": "ISC",
